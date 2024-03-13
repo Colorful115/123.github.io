@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://colorful115.github.io/navigation-webstack.github.io</id>
+    <title>webstack</title>
+    <updated>2024-03-13T10:57:43.669Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://colorful115.github.io/navigation-webstack.github.io"/>
+    <link rel="self" href="https://colorful115.github.io/navigation-webstack.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://colorful115.github.io/navigation-webstack.github.io/images/avatar.png</logo>
+    <icon>https://colorful115.github.io/navigation-webstack.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, webstack</rights>
+</feed>
